@@ -1,7 +1,17 @@
 ## Internet Outage
 
-# Ticket Information
-INC0012858 (Critical): Matt Reeves, facility, floor three:  no internet on floor 3. 
+Reported by: Mike Reeves (mreeves@servicedesk-simulator.com)
+Department: Facilities | Location: Floor 3
+Contact: x1095
+
+Issue Description:
+Nobody on the 3rd floor has internet right now! Started about half an hour ago. None of us can get to any websites. The conference rooms up here are out too. I checked with the 2nd floor folks and they're fine.
+
+Business Impact:
+Multiple departments unable to work. Customer service team cannot access CRM.
+<img width="1600" height="308" alt="image" src="https://github.com/user-attachments/assets/3f848244-f557-4ccd-8a2c-3a3a0e30357a" />
+
+
 
 # Steps Taken
 
