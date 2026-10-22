@@ -29,16 +29,16 @@ Lost half of workspace. Productivity significantly reduced for financial reporti
 
 
 
-2. I could not take a screenshot of what I did, but I checked for updates on the OS, and there were up to 5 updates that needed to be installed. After updating their computer and rebooting, their integrated graphics driver was updated, which led to their second monitor working.
+2. I checked for updates on the OS, and there were up to 5 updates that needed to be installed. After updating their computer and rebooting, their integrated graphics driver updated, which got their second monitor working.
 
-<img width="986" height="670" alt="image" src="https://github.com/user-attachments/assets/3851990b-8624-4598-87c1-1c4d814bee34" />
+<img width="1000" height="682" alt="image" src="https://github.com/user-attachments/assets/08d2974a-681f-4651-b4df-17642c98d4c1" />
 
 ## Ticket Notes
 
 - Suspected a graphics driver problem.
 - Remoted into Laura Santos computer and checked for OS updates. 5 updates were pending.
 - Installed the updates and rebooted. The integrated graphics driver was updated.
-- Second monitor now working.
+- Second monitor is now working.
 
 
 <img width="488" height="368" alt="image" src="https://github.com/user-attachments/assets/54ee59c6-6c12-4967-9a67-4e55106098f6" />
