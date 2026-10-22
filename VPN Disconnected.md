@@ -14,7 +14,7 @@ Working remotely and lost VPN. Cannot access any internal resources.
 ## Steps Taken
 
 
-1. I was advised by IT professionals that whenever you promote an employee's computer, you always want to check if their system is updated, so I'm updating just to be sure. 
+1. I was advised by IT professionals that whenever you on an employee's computer, you always want to check if their system is updated, so I'm updating just to be sure. 
 
 <img width="516" height="508" alt="image" src="https://github.com/user-attachments/assets/181886b6-636e-4829-b5f5-2bd8f9d9b651" />
 
