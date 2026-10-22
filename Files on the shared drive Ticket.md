@@ -45,7 +45,7 @@ Unable to access marketing campaign files. Deadline for Q1 campaign materials is
 
 ## Ticket Notes
 
-- Found the shared Dr. paths in the server documentation.
+- Found the shared drive paths in the server documentation.
 - Remoted into Sarah Mitchell's laptop. File Explorer showed only Local Disk.
 - Sarah was working remotely without VPN, which is needed to reach the company's data.
 - Connected the VPN and cloud drive, and the shared file appeared.
