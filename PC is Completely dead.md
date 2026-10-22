@@ -39,7 +39,7 @@ Customer Support agent offline; calls queueing with no one to take them.
 <img width="984" height="736" alt="Added Value SD2036 2026-10-20 101136" src="https://github.com/user-attachments/assets/8cb73966-56ee-4ffc-83f6-d261f3de013d" />
 
 
-4. After setting up the configurations, I went to the computer name settings and changed the domain to "servicedesk0simulator.local"
+4. After setting up the configurations, I went to the computer name settings and changed the domain to "servicedesk-simulator.local"
 
 <img width="1130" height="790" alt="Screenshot 2026-10-20 101232" src="https://github.com/user-attachments/assets/b78ec46a-7009-45f4-91fd-e26e9d107fb8" />
 
