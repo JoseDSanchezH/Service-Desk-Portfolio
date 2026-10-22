@@ -20,7 +20,7 @@ INC0012858 (Critical): Matt Reeves, facility, floor three:  no internet on floor
 
 <img width="932" height="746" alt="clicked reboot on the floor 3 switch and it went back online  2026-10-20 112354" src="https://github.com/user-attachments/assets/b52b85db-f725-42ea-8cac-1cf443c82f42" />
 
-5. I then checked the device status, and the switch was online. All eight out of eight devices were up and running, and the switch time was set to 0 days.
+5. I then checked the device status, and the switch was online. All eight devices were up and running, and the switch time was set to 0 days.
 
 6. I closed the ticket with the resolution notes. 
 
@@ -31,9 +31,8 @@ INC0012858 (Critical): Matt Reeves, facility, floor three:  no internet on floor
 
 - Floor 3 reported no internet, and Floor 2 was unaffected. 
 - Checked the devices controlling Floor 3 in the server room. 
-- Found the Floor 3 switch was offline with an error. 
-- ![Uploading closing switch 3 ticket  2026-10-20 112929.png…]()
-Rebooted the Switch. 
+- Found the Floor 3 switch was offline with an error.
+- Rebooted the Switch. 
 
 
 
