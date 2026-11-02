@@ -13,9 +13,9 @@ Thankfully, I can work on the simulation and become better at troubleshooting on
 All of the tickets, names, IP Addresses, and emails here are simulated. No real company or customer data is included. 
 
 For each ticket, I include: 
-- the original ticket
-- my steps taken with screenshots
-- short ticket notes, the way I would write them on the job.
+- The original ticket
+- My steps taken with screenshots
+- Short ticket notes, the way I would write them on the job.
 
 
 
